@@ -67,13 +67,13 @@ const CONFIG = {
 			id: '3',
 			name: 'qBittorrent',
 			icon: 'arrow-up-down',
-			link: 'http://192.168.0.202/8080',
+			link: 'http://192.168.0.202:8080',
 		},
 		{
 			id: '4',
 			name: 'Nitter',
 			icon: 'twitter',
-			link: 'https://notabird.site/ggreenwald',
+			link: 'https://nitter.cz/ggreenwald',
 		},
 		{
 			id: '5',
@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'https://mail.tutanota.com/login',
 				},
 				{
-					name: 'Pixelfed',
-					link: 'https://pixelfed.social/',
+					name: 'Nostr',
+					link: 'https://nostrnet.work/',
 				},
 				{
 					name: 'Piped',
