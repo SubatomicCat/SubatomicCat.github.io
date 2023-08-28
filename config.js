@@ -169,7 +169,7 @@ const CONFIG = {
 					link: 'https://mail.tutanota.com/login',
 				},
 				{
-					name: 'Nostr',
+					name: 'NostrNet',
 					link: 'https://nostrnet.work/',
 				},
 				{
